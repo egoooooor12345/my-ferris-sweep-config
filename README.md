@@ -1,1 +1,1 @@
-# my-ferris-sweep-config
+# my-ferris-sweep
